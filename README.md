@@ -56,13 +56,10 @@ Bangkit 2023.
 ---
 ### Connect with me:
 &nbsp;&nbsp;
-[![website](./twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./linkedin-light.svg)](https://www.linkedin.com/in/david-denovan-ms-30a184202/#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://www.linkedin.com/in/david-denovan-ms-30a184202/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./instagram-light.svg)](https://www.instagram.com/daviddenovannn/#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://www.instagram.com/daviddenovannn/#gh-dark-mode-only)
 
 [webdev]: https://github.com/daviddenovannn
