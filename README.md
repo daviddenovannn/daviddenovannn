@@ -32,13 +32,13 @@ Bangkit 2023.
    - Daily and Weekly Check Aircraft
 
 ## Certification
-•	Become a Google Cloud Engineer, Dicoding Indonesia | 2023-2026.
-•	Learn Basic Web Programming, Dicoding Indonesia | 2023-2026.
-•	JavaScript Programming Language Fundamental, Gunadarma University | 2022.
-•	Introduction to Programming Logic (Programming Logic 101), Dicoding Indonesia | 2023-2026.
-•	Get Started with Programming Fundamentals to Become a Software Developer, Dicoding Indonesia | 2023-2026.
-•	The Bits and Bytes of Computer Networking, Coursera | 2023.
-•	System Administration and IT Infrastructure Services, Coursera | 2023.
+- Become a Google Cloud Engineer, Dicoding Indonesia | 2023-2026.
+- Learn Basic Web Programming, Dicoding Indonesia | 2023-2026.
+- JavaScript Programming Language Fundamental, Gunadarma University | 2022.
+- Introduction to Programming Logic (Programming Logic 101), Dicoding Indonesia | 2023-2026.
+- Get Started with Programming Fundamentals to Become a Software Developer, Dicoding Indonesia | 2023-2026.
+- The Bits and Bytes of Computer Networking, Coursera | 2023.
+- System Administration and IT Infrastructure Services, Coursera | 2023.
 
 
 ### Languages and Tools:
