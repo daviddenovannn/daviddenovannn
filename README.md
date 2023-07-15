@@ -19,7 +19,7 @@ Hi, my name is David Donovan M S, currently I am a student majoring in Informati
 #### 2. [SMKN 4 Depok ](http://smk2tj.mysch.id/) | Aircraft Egnineering | Depok `2016- 2019`
 
 ## Experience:
-#### 1. [Cloud Computing Cohort 2023 ]| Bangkit Academy Ied by Google, Tokopedia, Gojek & Traveloka| Bogor `Feb2023-Jul 2023`
+#### 1. [Cloud Computing Cohort 2023 ]() | Bangkit Academy Ied by Google, Tokopedia, Gojek & Traveloka| Bogor `Feb2023-Jul 2023`
    - Create a website using HTML and CSS through the certifications below.
    - Experienced in building RESTFULAPIs Using Express JS.
    - Using Google Cloud Platform as a Cloud Service.
