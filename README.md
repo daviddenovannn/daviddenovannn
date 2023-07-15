@@ -1,5 +1,5 @@
 # Hi there, I'm David Donovan M S 👋
-(081385658188) | (https://www.linkedin.com/in/david-denovan-ms-30a184202/)
+(081385658188) | Depok, 16461
 
 ## Summary:
 Hi, my name is David Donovan M S, currently I am a student majoring in Informatics at Gunadarma University. I have a strong passion and am very enthusiastic to learn to make applications and websites. I'm currently developing my skills as a UI/UX designer. I am very adaptable, able to work well together, communicative, and have a desire to learn and grow.
@@ -19,15 +19,15 @@ Hi, my name is David Donovan M S, currently I am a student majoring in Informati
 #### 2. [SMKN 4 Depok ](http://smk2tj.mysch.id/) | Aircraft Egnineering | Depok `2016- 2019`
 
 ## Experience:
-#### 1. [Cloud Computing Cohort 2023 ]() | Bangkit Academy Ied by Google, Tokopedia, Gojek & Traveloka| Bogor `Feb2023-Jul 2023`
+#### 1. [Cloud Computing Cohort 2023 ](https://kampusmerdeka.kemdikbud.go.id/program/studi-independen/browse/5bdeace0-0e53-4f72-ba4b-0ee9b1779f56/6398d60e-d37f-11ed-9c11-3a0e58e1d587) | Bangkit Academy Ied by Google, Tokopedia, Gojek & Traveloka| Bogor `Feb2023-Jul 2023`
    - Create a website using HTML and CSS through the certifications below.
    - Experienced in building RESTFULAPIs Using Express JS.
    - Using Google Cloud Platform as a Cloud Service.
    - Make animal Chicken Deseases Detector name “C-Ditech” which is capstone project
 Bangkit 2023.
-#### 2. [Leader Organization]() | Head of the Christian Organization at Vocational High School | Depok `Jan 2018 - Jan2019`
+#### 2. [Leader Organization](https://smkn4depok.sch.id/) | Head of the Christian Organization at Vocational High School | Depok `Jan 2018 - Jan2019`
    - Leading Christian Organization events inside and outside of school
-#### 3. [Intern at PT GMF AeroAsia]() | Maintenance Aircraft | Palembang `Sep2017 - Nov2017`
+#### 3. [Intern at PT GMF AeroAsia](https://www.gmf-aeroasia.co.id/) | Maintenance Aircraft | Palembang `Sep2017 - Nov2017`
    - Pushback Aircraft
    - Daily and Weekly Check Aircraft
 
