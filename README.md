@@ -68,5 +68,4 @@ Bangkit 2023.
 [![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
-
 [webdev]: https://github.com/daviddenovannn
