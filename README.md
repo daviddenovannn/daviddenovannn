@@ -55,15 +55,12 @@ Bangkit 2023.
 
 ---
 ### Connect with me:
-
-[![website](./youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
 [![website](./twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/david-denovan-ms-30a184202/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/david-denovan-ms-30a184202/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
 [![website](./instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
