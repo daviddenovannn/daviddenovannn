@@ -1,5 +1,5 @@
 # Hi there, I'm David Donovan M S 👋
-(081385658188) | Depok, 16461
+Depok
 
 ## Summary:
 Hi, my name is David Donovan M S, currently I am a student majoring in Informatics at Gunadarma University. I have a strong passion and am very enthusiastic to learn to make applications and websites. I'm currently developing my skills as a UI/UX designer. I am very adaptable, able to work well together, communicative, and have a desire to learn and grow.
