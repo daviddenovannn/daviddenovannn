@@ -1,7 +1,7 @@
 # Hi there, I'm David Donovan M S 👋
 
 ## Summary:
-Hi, my name is David Donovan M S, currently I am a student majoring in Informatics at Gunadarma University. I have a strong passion and am very enthusiastic to learn to make applications and websites. I'm currently developing my skills as a UI/UX designer. I am very adaptable, able to work well together, communicative, and have a desire to learn and grow.
+Hi, my name is David Donovan M S, currently I am a student majoring in Informatics at Gunadarma University. I have a strong passion and am very enthusiastic to learn to make applications and websites. I'm currently developing my skills as a Web Developer. I am very adaptable, able to work well together, communicative, and have a desire to learn and grow.
 
 ## About me:
 - 🔭 I'm currently an Informatics Engineering student
