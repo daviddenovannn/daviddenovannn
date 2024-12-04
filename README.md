@@ -1,63 +1,18 @@
-# Hi there, I'm David Donovan M S 👋
 
-## Summary:
-Hi, my name is David Donovan M S, currently I am a student majoring in Informatics at Gunadarma University. I have a strong passion and am very enthusiastic to learn to make applications and websites. I'm currently developing my skills as a Web Developer. I am very adaptable, able to work well together, communicative, and have a desire to learn and grow.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_gabeeeeeee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daviddenovannn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/daviddenovannn) 
 
-## About me:
-- 🔭 I'm currently an Informatics Engineering student
-- 🌱 I’m currently learning Web Progamming and Graphic Design
-- 😄 I'm looking for part time job
-- 💬 Ask me about anything
-- 📫 How to reach me: daviddenovannn@gmail.com
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=daviddenovan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=daviddenovan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddenovan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Education:
-
-#### 1. [Universitas Gunadarma](https://gunadarma.ac.id/) | Informatics Engineering Student | Gunadarma `2020 - Present `
-   
-#### 2. [SMKN 4 Depok ](https://smkn4depok.sch.id/) | Aircraft Egnineering | Depok `2016- 2019`
-
-## Experience:
-#### 1. [Cloud Computing Cohort 2023 ](https://kampusmerdeka.kemdikbud.go.id/program/studi-independen/browse/5bdeace0-0e53-4f72-ba4b-0ee9b1779f56/6398d60e-d37f-11ed-9c11-3a0e58e1d587) | Bangkit Academy Ied by Google, Tokopedia, Gojek & Traveloka| `Feb 2023 - Jul 2023`
-   - Create a website using HTML and CSS through the certifications below.
-   - Experienced in building RESTFULAPIs Using Laravel.
-   - Using Google Cloud Platform as a Cloud Service.
-   - Make animal Chicken Deseases Detector name “C-Ditech” which is capstone project
-Bangkit 2023.
-#### 2. [Leader Organization](https://smkn4depok.sch.id/) | Head of the Christian Organization at Vocational High School | Depok `Jan 2018 - Jan 2019`
-   - Leading Christian Organization events inside and outside of school
-#### 3. [Intern at PT GMF AeroAsia](https://www.gmf-aeroasia.co.id/) | Maintenance Aircraft | Palembang `Sep 2017 - Nov 2017`
-   - Pushback Aircraft
-   - Daily and Weekly Check Aircraft
-
-## Certification
-- Become a Google Cloud Engineer, Dicoding Indonesia | 2023-2026.
-- Learn Basic Web Programming, Dicoding Indonesia | 2023-2026.
-- JavaScript Programming Language Fundamental, Gunadarma University | 2022.
-- Introduction to Programming Logic (Programming Logic 101), Dicoding Indonesia | 2023-2026.
-- Get Started with Programming Fundamentals to Become a Software Developer, Dicoding Indonesia | 2023-2026.
-- The Bits and Bytes of Computer Networking, Coursera | 2023.
-- System Administration and IT Infrastructure Services, Coursera | 2023.
-
-
-### Languages and Tools:
-
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-### Connect with me:
-&nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/david-denovan-ms-30a184202/#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/david-denovan-ms-30a184202/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://www.instagram.com/daviddenovannn/#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://www.instagram.com/daviddenovannn/#gh-dark-mode-only)
+[![](https://visitcount.itsvg.in/api?id=daviddenovan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[webdev]: https://github.com/daviddenovannn
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
